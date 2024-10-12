@@ -1,0 +1,7 @@
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csprojAssemblyReference.cache
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb

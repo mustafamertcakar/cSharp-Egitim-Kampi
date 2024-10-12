@@ -1,0 +1,14 @@
+C:\Users\Mustafa\source\repos\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\Mustafa\source\repos\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\Mustafa\source\repos\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\Mustafa\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\Mustafa\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csprojAssemblyReference.cache
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+D:\İSMEK.NET\C# Baslangıc\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
